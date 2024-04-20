@@ -1,4 +1,4 @@
-# Nix Configurations
+# Nix Configurations 
 
 ## Sort
 * [->](https://www.reddit.com/r/unixporn/comments/1bsw96y/2_years_later_swaywm/) nixos
